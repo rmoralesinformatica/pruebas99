@@ -18,4 +18,4 @@
 
 1. En este caso no hemos usado el enforque DDD porque no separaremos el código en entidades, repositorios, y servicios, facilitando  la mantenibilidad ,escalabilidad y centrandose en el servicio del dominio o logica del negocio.
 
-![img.png](img.png)
+![img.png](img.png) 
