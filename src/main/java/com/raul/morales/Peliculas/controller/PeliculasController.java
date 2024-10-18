@@ -19,7 +19,7 @@ public class PeliculasController {
 
     @GetMapping("api/crearPeliculas")
     public void crearPelicula(){
-        Pelicula pelicula1 = new Pelicula("Titanic","James Cameron","drama");
+        Pelicula pelicula1 = new Pelicula("Mierda basrco","James Cameron","drama");
         peliculaRespository.save(pelicula1);
         Pelicula pelicula2 = new Pelicula("Diablos","Jhon Martir","terror");
         peliculaRespository.save(pelicula2);
